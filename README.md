@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**ArthVic/ArthVic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # I am Aeth
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>   
+    
+# Prince Bhardwaj 
+*Developer | AI Engineer | Captain*
+
+    💼 2nd year btech @ abesit  
+    💻 Current Focus: Website and Wep-app development.  
+
+---
+
+</div>
+
+### 📈 numbers? meh.  
+ ![Adi's Github Stats](https://github-readme-stats.vercel.app/api?username=ArthVic&count_private=true&show_icons=true&theme=github_dark_dimmed)
+
+
+<details>
+  <summary>🌱 Worklog  </summary>
+
+</details>
+
+<details>
+  <summary>🔥 Picks </summary>
+</details>
+
+
